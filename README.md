@@ -1,6 +1,6 @@
 # Desafios para vagas de QA nível Junior/Pleno na Idwall
 
-Nesta brach 'desafio' está minha resolução do desafio proposto pela Idwall, apenas com propósito de uso como portifólio.
+Nesta brach 'desafio' está minha resolução do desafio proposto pela [Idwall](https://github.com/idwall/desafios-qa), apenas com propósito de uso como portifólio.
 
 ## Plano de Testes
 
