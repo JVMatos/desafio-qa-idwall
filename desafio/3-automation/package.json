@@ -1,0 +1,14 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Resolução do desafio proposto pela empresa Idwall para vaga de QA Junior/Pleno (apenas para uso como portfólio)",
+  "scripts": {
+    "test": "yarn cypress run",
+    "open": "yarn cypress open"
+  },
+  "author": "João Vitor Matos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "12.8.1"
+  }
+}
